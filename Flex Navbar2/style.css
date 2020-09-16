@@ -1,0 +1,50 @@
+/*css reset here */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#flex-container {
+    margin: 0;
+    padding: 0;
+    background-color: #6495ed;
+    height:100px;
+    width:1000px;
+    display: flex.1;
+}
+
+img {
+    height: 80px;
+    margin: 10px;
+
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 100px;
+    color: white;
+    justify-content: flex-start;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+ul li {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 100px;
+    margin-left: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
